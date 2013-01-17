@@ -1,0 +1,200 @@
+2012-02-06T00:58:46+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10008ms status=200 bytes=3
+2012-02-06T00:58:46+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/186020856516692325?t=1328489927756
+2012-02-06T00:58:46+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:58:46+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 186020856516692325
+2012-02-06T00:58:46+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:58:51+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue=0 wait=0ms service=10028ms status=200 bytes=3
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 202331463024041146
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/202331463024041146?t=1328489931685
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:58:51+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 202331463024041146
+2012-02-06T00:58:56+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10009ms status=200 bytes=3
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 186020856516692325
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/186020856516692325?t=1328489937918
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 186020856516692325
+2012-02-06T00:58:56+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:01+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue=0 wait=0ms service=10011ms status=200 bytes=3
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 202331463024041146
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/202331463024041146?t=1328489941826
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:01+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 202331463024041146
+2012-02-06T00:59:06+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:06+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 186020856516692325
+2012-02-06T00:59:06+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:06+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:06+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10012ms status=200 bytes=3
+2012-02-06T00:59:07+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/186020856516692325?t=1328489948091
+2012-02-06T00:59:07+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:07+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 186020856516692325
+2012-02-06T00:59:07+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:11+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue=0 wait=0ms service=10013ms status=200 bytes=3
+2012-02-06T00:59:11+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:11+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:11+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 202331463024041146
+2012-02-06T00:59:11+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:12+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 202331463024041146
+2012-02-06T00:59:12+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:12+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/202331463024041146?t=1328489951981
+2012-02-06T00:59:12+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 186020856516692325
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:17+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10015ms status=200 bytes=3
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 186020856516692325
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:17+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/186020856516692325?t=1328489958272
+2012-02-06T00:59:22+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue=0 wait=0ms service=10007ms status=200 bytes=3
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 202331463024041146
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 202331463024041146
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/202331463024041146?t=1328489962123
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:22+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:25+00:00 heroku[slugc]: Slug compilation started
+2012-02-06T00:59:27+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10005ms status=200 bytes=3
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 186020856516692325
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/186020856516692325?t=1328489968394
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:27+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 186020856516692325
+2012-02-06T00:59:32+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue=0 wait=0ms service=10013ms status=200 bytes=3
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 202331463024041146
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m setting poll timeout
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m setting request GET /socket.io/1/xhr-polling/202331463024041146?t=1328489972274
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m discarding transport
+2012-02-06T00:59:32+00:00 app[web.1]:    [90mdebug -[39m cleared close timeout for client 202331463024041146
+2012-02-06T00:59:34+00:00 heroku[api]: Deploy bda59cc by joao.campos.ribeiro@gmail.com
+2012-02-06T00:59:34+00:00 heroku[api]: Release v137 created by joao.campos.ribeiro@gmail.com
+2012-02-06T00:59:34+00:00 heroku[web.1]: State changed from up to bouncing
+2012-02-06T00:59:34+00:00 heroku[web.1]: State changed from bouncing to created
+2012-02-06T00:59:34+00:00 heroku[web.1]: State changed from created to starting
+2012-02-06T00:59:34+00:00 heroku[slugc]: Slug compilation finished
+2012-02-06T00:59:36+00:00 heroku[web.1]: Starting process with command `node web.js`
+2012-02-06T00:59:37+00:00 heroku[router]: GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno=web.1 queue=0 wait=0ms service=10004ms status=200 bytes=3
+2012-02-06T00:59:37+00:00 app[web.1]:    [90mdebug -[39m clearing poll timeout
+2012-02-06T00:59:37+00:00 app[web.1]:    [90mdebug -[39m set close timeout for client 186020856516692325
+2012-02-06T00:59:37+00:00 app[web.1]:    [90mdebug -[39m xhr-polling closed due to exceeded duration
+2012-02-06T00:59:37+00:00 app[web.1]:    [90mdebug -[39m xhr-polling writing 8::
+2012-02-06T00:59:37+00:00 app[web.1]:    [36minfo  -[39m socket.io started
+2012-02-06T00:59:37+00:00 app[web.1]: 
+2012-02-06T00:59:37+00:00 app[web.1]: /app/lib/socket_manager.js:205
+2012-02-06T00:59:37+00:00 app[web.1]:                          ^
+2012-02-06T00:59:37+00:00 app[web.1]:                         });
+2012-02-06T00:59:37+00:00 app[web.1]: 
+2012-02-06T00:59:37+00:00 app[web.1]:         throw e; // process.nextTick error, or 'error' event on first tick
+2012-02-06T00:59:37+00:00 app[web.1]: node.js:134
+2012-02-06T00:59:37+00:00 app[web.1]:         ^
+2012-02-06T00:59:37+00:00 app[web.1]: SyntaxError: Unexpected token )
+2012-02-06T00:59:37+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Module._compile (module.js:399:25)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T00:59:37+00:00 app[web.1]:     at require (module.js:348:19)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Object.<anonymous> (/app/web.js:93:22)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Module._compile (module.js:404:26)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T00:59:37+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T00:59:38+00:00 heroku[web.1]: Stopping process with SIGTERM
+2012-02-06T00:59:38+00:00 heroku[router]: Error H13 (Connection closed without response) -> GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/202331463024041146 dyno=web.1 queue= wait= service= status=503 bytes=
+2012-02-06T00:59:38+00:00 heroku[web.1]: Process exited
+2012-02-06T00:59:38+00:00 heroku[web.1]: State changed from starting to crashed
+2012-02-06T00:59:38+00:00 heroku[web.1]: State changed from crashed to created
+2012-02-06T00:59:38+00:00 heroku[web.1]: State changed from created to starting
+2012-02-06T00:59:39+00:00 heroku[web.1]: Process exited
+2012-02-06T00:59:41+00:00 heroku[web.1]: Starting process with command `node web.js`
+2012-02-06T00:59:41+00:00 app[web.1]:    [36minfo  -[39m socket.io started
+2012-02-06T00:59:41+00:00 app[web.1]: 
+2012-02-06T00:59:41+00:00 app[web.1]: /app/lib/socket_manager.js:205
+2012-02-06T00:59:41+00:00 app[web.1]:                         });
+2012-02-06T00:59:41+00:00 app[web.1]:                          ^
+2012-02-06T00:59:41+00:00 app[web.1]: 
+2012-02-06T00:59:41+00:00 app[web.1]: node.js:134
+2012-02-06T00:59:41+00:00 app[web.1]:         throw e; // process.nextTick error, or 'error' event on first tick
+2012-02-06T00:59:41+00:00 app[web.1]:         ^
+2012-02-06T00:59:41+00:00 app[web.1]:     at Module._compile (module.js:404:26)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Module._compile (module.js:399:25)
+2012-02-06T00:59:41+00:00 app[web.1]:     at require (module.js:348:19)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T00:59:41+00:00 app[web.1]: SyntaxError: Unexpected token )
+2012-02-06T00:59:41+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Object.<anonymous> (/app/web.js:93:22)
+2012-02-06T00:59:41+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T00:59:42+00:00 heroku[web.1]: State changed from starting to crashed
+2012-02-06T00:59:43+00:00 heroku[web.1]: Process exited
+2012-02-06T00:59:43+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/xhr-polling/186020856516692325 dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:43+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:44+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:44+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:44+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:45+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:45+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:47+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:51+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:53+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T00:59:59+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:00:09+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:00:15+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:00:41+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:00:47+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:01:46+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:01:51+00:00 heroku[router]: Error H10 (App crashed) -> GET meetup-io.herokuapp.com/socket.io/1/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:03:32+00:00 heroku[router]: Error H10 (App crashed) -> POST meetup-io.herokuapp.com/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:03:36+00:00 heroku[router]: Error H10 (App crashed) -> POST meetup-io.herokuapp.com/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:05:55+00:00 heroku[slugc]: Slug compilation started
+2012-02-06T01:06:00+00:00 heroku[api]: Deploy d8c3341 by joao.campos.ribeiro@gmail.com
+2012-02-06T01:06:00+00:00 heroku[api]: Release v138 created by joao.campos.ribeiro@gmail.com
+2012-02-06T01:06:00+00:00 heroku[web.1]: State changed from crashed to created
+2012-02-06T01:06:00+00:00 heroku[web.1]: State changed from created to starting
+2012-02-06T01:06:01+00:00 heroku[slugc]: Slug compilation finished
+2012-02-06T01:06:03+00:00 heroku[web.1]: Starting process with command `node web.js`
+2012-02-06T01:06:04+00:00 app[web.1]:    [36minfo  -[39m socket.io started
+2012-02-06T01:06:04+00:00 app[web.1]: 
+2012-02-06T01:06:04+00:00 app[web.1]: /app/lib/socket_manager.js:209
+2012-02-06T01:06:04+00:00 app[web.1]:             });
+2012-02-06T01:06:04+00:00 app[web.1]:             ^
+2012-02-06T01:06:04+00:00 app[web.1]: 
+2012-02-06T01:06:04+00:00 app[web.1]: node.js:134
+2012-02-06T01:06:04+00:00 app[web.1]:         ^
+2012-02-06T01:06:04+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T01:06:04+00:00 app[web.1]:         throw e; // process.nextTick error, or 'error' event on first tick
+2012-02-06T01:06:04+00:00 app[web.1]: SyntaxError: Unexpected token }
+2012-02-06T01:06:04+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T01:06:04+00:00 app[web.1]:     at require (module.js:348:19)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Object.<anonymous> (/app/web.js:93:22)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Object..js (module.js:410:10)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Module._compile (module.js:404:26)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Module._compile (module.js:399:25)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Module.load (module.js:336:31)
+2012-02-06T01:06:04+00:00 app[web.1]:     at Function._load (module.js:297:12)
+2012-02-06T01:06:05+00:00 heroku[web.1]: State changed from starting to crashed
+2012-02-06T01:06:05+00:00 heroku[web.1]: Process exited
+2012-02-06T01:06:10+00:00 heroku[router]: Error H10 (App crashed) -> POST meetup-io.herokuapp.com/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:06:18+00:00 heroku[router]: Error H10 (App crashed) -> POST meetup-io.herokuapp.com/ dyno= queue= wait= service= status=503 bytes=
+2012-02-06T01:06:18+00:00 heroku[router]: Error H10 (App crashed) -> POST meetup-io.herokuapp.com/ dyno= queue= wait= service= status=503 bytes=
